@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "jsx": "react-native",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ESNext",
+    "types": [
+      "react",
+      "react-native"
+    ],
+    "allowImportingTsExtensions": true
+  },
+  "extends": "expo/tsconfig.base"
+}
